@@ -44,3 +44,14 @@ Phones have drastically evolved from their “brick phone” origins to intellig
 - **Apple:** With the iPhone (2007), redefined what mobile phones could be — smartphones with touchscreen, apps, and internet — initiating a new era.
 - **Mobile phone industry overall:** Across decades, many manufacturers and network providers contributed to evolving mobile networks  
   (from 1G analogue to modern digital), global mass adoption, and smartphone innovation.
+
+## References
+
+Android Authority (2024). *The history of cell phones: A decade-by-decade timeline*.  
+Available at: https://www.androidauthority.com/history-of-cell-phones-timeline-3264425/ (Accessed: 2025).
+
+Computer City (2024). *Evolution of mobile phone technology: From bricks to smart AI (1973–2025)*.  
+Available at: https://computercity.com/phones/evolution-of-mobile-phone-technology-from-bricks-to-smart-ai-1973-2025 (Accessed: 2025).
+
+BBC Bitesize (n.d.). *How mobile phones have changed over time*.  
+Available at: https://www.bbc.co.uk/bitesize/articles/z62gjfr (Accessed: 2025).
