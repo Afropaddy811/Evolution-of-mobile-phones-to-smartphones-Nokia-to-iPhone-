@@ -7,7 +7,7 @@ Motorola and Nokia were among the first businesses to make cell phones.
 Motorola made some of the first phones that people could buy.  
 Nokia was the world's most popular phone maker in the 1990s and early 2000s. 
 People liked Nokia phones because they were easy to use, the batteries lasted a long time, and they lasted a long time. 
-People liked talking on the phone more because of this.  Because the brand is so popular all around the world, cell phones go from being nice-to-have to must-have commodities. 
+People liked talking on the phone more because of this.  Because the brand is so popular all around the world, cell phones go from being nice-to-have to must-have commodities 
 But the smartphone, especially the iPhone that Apple came up with in 2007, changed the game and what people thought mobile technology could do. 
 The industry changed a lot when it went from physical buttons to touchscreens, from simple software to app-based ecosystems, and from devices that were mostly for communication to computing platforms that could do a lot of things.
 This case study examines the evolution of mobile phones from traditional models, notably the Nokia brand, to contemporary devices, with Apple's iPhone at the forefront.
@@ -24,3 +24,5 @@ Smartphones made it easy to talk to people, but they also transformed how people
 The change from cell phones to smartphones is more than just a simple technological improvement.
 It shows how business strategy and social change are connected in a deeper way. 
 This case study looks at how Nokia's decision to migrate from mobile phones to Apple's smartphones affected the way people live and communicate throughout the world.
+
+
