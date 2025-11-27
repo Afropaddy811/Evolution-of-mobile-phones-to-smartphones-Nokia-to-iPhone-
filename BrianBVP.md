@@ -29,3 +29,12 @@ Marketing, design and customer experience emerged as a very important differenti
 ## Market share and financial shifts (e.g., Nokia’s fall, Apple’s rise in profits).
 
 The shift to smartphones led to extraordinary changes in market share and financial performance across the mobile industry, most remarkably seen in Nokia’s rapid decline and Apple’s rise. Nokia once the world’s largest mobile phone manufacturer with dominant global market share started to lose value when it failed to compete well in the smartphone era. The blend of slow updates, platform crumbling and a weak app system led users and developers to change to alternatives. Meanwhile Apple’s iPhone supported by a valuable ecosystem built around iTunes and the App Store quickly became one of the most monetarily successful customer products in history. Apple’s hardware software incorporation, exceptional pricing strategy and strong loyalty allowed the business to capture an inconsistent share of industry profits. As Apple’s profits and global effect grew each year Nokia’s profits subsided, eventually forcing the enterprise to exit the smartphone market and shift toward network technologies. This financial and market-share shift demonstrates how quickly leadership can change when businesses fail to adapt to disruptive revolution.
+
+### References
+
+(No date) (PDF) the development of Nokia and its strategy (A Multinational Technology Corporation). Available at: https://www.researchgate.net/publication/387130747_The_Development_of_Nokia_and_its_Strategy_A_Multinational_Technology_Corporation (Accessed: 27 November 2025). 
+
+Evans, J. (2025a) What Nokia was thinking when Apple introduced iPhone in 2007, Computerworld. Available at: https://www.computerworld.com/article/3803214/what-nokia-was-thinking-when-apple-introduced-iphone-in-2007.html (Accessed: 27 November 2025). 
+
+Shaughnessy, H. (2013) Apple’s rise and Nokia’s Fall Highlight Platform Strategy Essentials, Forbes. Available at: https://www.forbes.com/sites/haydnshaughnessy/2013/03/08/apples-rise-and-nokias-fall-highlight-platform-strategy-essentials/ (Accessed: 27 November 2025). 
+
