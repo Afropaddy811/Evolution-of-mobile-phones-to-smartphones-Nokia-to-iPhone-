@@ -1,16 +1,28 @@
 # Viewp‍oint‌ : Business Side of th⁠e E‌quation!
 ‌
-Business Perspective : Competition, Economics, and Strategic Lessons 
+  
+
+ 
+
+Business Perspective (Part 2): Competition, Economics, and Strategic Lessons 
 
 Market share and competitive dynamics (Apple, Samsung, Huawei,⁠‍ a‍n⁠d former Nokia) Th‌⁠e report from a major market-re⁠se‍⁠ar⁠ch firm‍ showed that in Q3 2 023 global smartphone shipments fell 8‍% year-⁠on -year — and while “top five” brands lost share, challengers (including Huawei‍‍) gr⁠ew. Data from 2023: global smartphone⁠ sales volumes increased slightly;‌ in that‍ q⁠uarter,‌ iOS h‍eld 3‌7% of‌ global⁠ smartphone sales. Anoth‌e‌r recen⁠t snaps‍hot⁠: in Europe⁠⁠ (Q 2 2025) smartphone shipments dropped 9%, with Samsung still leading (though down⁠) ,‍ Apple sec‌o‍nd⁠. On‍ the broader i⁠ndu⁠stry‌ si‍z‌e and do‍min‌a⁠nc‌e of App⁠le + Samsung: forec‌asts‍ suggest‌ th⁠e gl‍obal smartphone industry may hi⁠t a valu‌atio‍n by 20‍3‍0 —⁠ and Apple + Samsung r⁠emai⁠n among the most p‍opul‌ar brands. 
 
  
+
+Ecosystem Power (App Store & Google Play) 
 
 The “Mobile Ecosystems” market-study by competition/regulatory authorities (in the UK) found that the official app stores App Store (iOS) and Google Play Store (Android) account for over 90% of native app downloads.  
 
 That study describes how app stores connect users and developers (two-sided platforms), and how the dominance of Apple & Google’s stores creates high entry barriers for alternative stores reinforcing "lock-in" and ecosystem advantage.  
 
 Reports suggest regulators see Apple and Google’s ecosystem dominance as potentially anti-competitive, due to their control over distribution, in-app billing, and restrictions on alternative stores  underscoring the economic value and market power of ecosystems.  
+
+ 
+
+ 
+
+Nokia: Rise and Collapse 
 
 According to the history of Nokia: by end of 2007 Symbian OS (on which Nokia’s smartphones ran) still held 62.5% of the smartphone market. But by around 2010–2012 its share plunged. 
 
@@ -28,13 +40,23 @@ The “Mobile Ecosystems” study argues that high-value app stores generate pro
 
 Industry forecasts suggest that continued consolidation and premiumization (dominated by top players) significantly shape global supply-chain dynamics and long-term valuations. 
 
+Global Smartphones shipments dropped with challenges sometimes gaining share with top brands can slow downs. 
+
+Apple and Samsung remain the top brands, benefiting from good brand loyalty and expensive products. 
+
+Market Concentration benefit top players, shaping supply chains and long term industry value. 
+
+App ecosystem, like the app store and google play, control the majority of app distribution, creating high entry barriers. 
+
+Nokia’s decline highlights the risks of failing to adapt to new platforms and ecosystem-focused competition. 
+
+ 
+
  
 
  
 
 References  
-
- 
 
 Counterpoint Research – Global Smartphone Market Share 
 https://www.counterpointresearch.com/insight/global-smartphone-share/ 
@@ -69,4 +91,3 @@ https://assets.publishing.service.gov.uk/media/63f61bc0d3bf7f62e8c34a02/Mobile_E
  
 
  
-
