@@ -32,9 +32,15 @@ everyone.​
 
 
 Links:
+
 www.nokia.com/about-us/sustainability/our-approach/
+
 thebrandhopper.com/2023/07/08/the-rise-and-fall-of-nokia-why-and-how-nokia-failed/
+
 https://www.theguardian.com/technology/2013/sep/03/nokia-rise-fall-mobile-phone-giant?
+
 https://www.themomentum.com/articles/sustainable-smartphones-possible-or-a-pipe-dream?
+
 https://stacker.com/stories/environment/environmental-impact-smartphones-and-what-industry-doing-make-them-more?
+
 https://en.wikipedia.org/wiki/Modular_smartphone?
